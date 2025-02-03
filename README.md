@@ -1,4 +1,4 @@
-This project created by following the tutorial of weather app - 30 days javascript code.
+This project created by following the tutorial of weather app
 the technologies used in this project include :-
 HTML,
 CSS,
